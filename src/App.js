@@ -22,6 +22,7 @@ class App extends Component {
     });
   }
 
+  // Render header, searchbar and results (when array fills)
   render() {
     return (
       <div className="App">
